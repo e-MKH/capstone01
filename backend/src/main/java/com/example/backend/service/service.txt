@@ -1,0 +1,4 @@
+service 작성
+
+1. service 자체는 interface 작성
+2. Impl Class로 구현 필요
